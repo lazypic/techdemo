@@ -46,6 +46,9 @@
 
 ![subtitle_bg](./images/subtitle_bgcolor_setting.png)
 
+### 보안
+- 모자이크 효과: https://www.youtube.com/watch?v=n66tfmw1JCs
+
 ### 목소리 에디팅
 까슬까슬한 목소리의 중음을 조금 다듬어줍니다.
 
